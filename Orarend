@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2px">
+        <tr style="background-color: chartreuse;">
+            <th>Óraszám</th>
+            <th>Hétfő</th>
+            <th>Kedd</th>
+            <th>Szerda</th>
+            <th>Csütörtök</th>
+            <th>Péntek</th>
+            <th></th>
+        </tr>
+        <tr>
+            <td>0.</td>
+            <td> </td>
+            <td></td>
+            <td></td>
+            <td>Tesi</td>
+            <td>Programozás</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>matek</td>
+            <td></td>
+            <td>töri</td>
+            <td>tesi</td>
+            <td>Programozás</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>tesi</td>
+            <td>angol</td>
+            <td>matek</td>
+            <td>ikt</td>
+            <td>programozzás</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>angol</td>
+            <td>of</td>
+            <td>komp.</td>
+            <td>magyar</td>
+            <td>info</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td>töri</td>
+            <td>matek</td>
+            <td>angol</td>
+            <td>matek</td>
+            <td>info</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5.</td>
+            <td>magyar</td>
+            <td>ikt</td>
+            <td>magyar</td>
+            <td>komplex</td>
+            <td>töri</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>6.</td>
+            <td>magyar</td>
+            <td>magyar</td>
+            <td>digi</td>
+            <td>angol</td>
+            <td>matek</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7.</td>
+            <td>kmp</td>
+            <td></td>
+            <td>digi</td>
+            <td></td>
+            <td>tesi</td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
